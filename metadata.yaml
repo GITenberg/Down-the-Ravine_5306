@@ -1,0 +1,26 @@
+_repo: Down-the-Ravine_5306
+creator:
+  author:
+    agent_name: Murfree, Mary Noailles
+    alias: Craddock, Charles Egbert
+    birthdate: 1850
+    deathdate: 1922
+    gutenberg_agent_id: '1759'
+    url: http://www.gutenberg.org/2009/agents/1759
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Noailles_Murfree
+description: ''
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5306'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Cumberland Mountains -- Fiction'
+- !lcsh 'Tennessee -- Social life and customs -- Fiction'
+- !lcsh 'Mountain life -- Fiction'
+title: Down the Ravine
+url: http://www.gutenberg.org/ebooks/5306
